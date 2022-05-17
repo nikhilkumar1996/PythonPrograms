@@ -1,6 +1,6 @@
 def harmonic_number(number):
     """Program 5: Find Harmonic Number
-     [1/n]+[1/(n+1)]+[1/(n+2)]....."""
+     [1/n]+[1/(n+1)]+[1/(n+2)]........."""
     inital = 1
     sum = 0
 
